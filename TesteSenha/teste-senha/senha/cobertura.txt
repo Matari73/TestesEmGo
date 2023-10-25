@@ -1,0 +1,24 @@
+mode: set
+teste-senha/teste-senha/senha/senha.go:12.42,15.34 3 1
+teste-senha/teste-senha/senha/senha.go:20.2,20.12 1 1
+teste-senha/teste-senha/senha/senha.go:23.2,23.31 1 1
+teste-senha/teste-senha/senha/senha.go:15.34,18.3 2 1
+teste-senha/teste-senha/senha/senha.go:20.12,22.3 1 1
+teste-senha/teste-senha/senha/senha.go:26.42,29.34 3 1
+teste-senha/teste-senha/senha/senha.go:35.2,35.12 1 1
+teste-senha/teste-senha/senha/senha.go:38.2,38.37 1 1
+teste-senha/teste-senha/senha/senha.go:29.34,30.34 1 1
+teste-senha/teste-senha/senha/senha.go:30.34,32.4 1 1
+teste-senha/teste-senha/senha/senha.go:35.12,37.3 1 1
+teste-senha/teste-senha/senha/senha.go:41.42,44.34 3 1
+teste-senha/teste-senha/senha/senha.go:50.2,50.12 1 1
+teste-senha/teste-senha/senha/senha.go:53.2,53.37 1 1
+teste-senha/teste-senha/senha/senha.go:44.34,45.34 1 1
+teste-senha/teste-senha/senha/senha.go:45.34,47.4 1 1
+teste-senha/teste-senha/senha/senha.go:50.12,52.3 1 1
+teste-senha/teste-senha/senha/senha.go:56.34,59.34 3 1
+teste-senha/teste-senha/senha/senha.go:65.2,65.12 1 1
+teste-senha/teste-senha/senha/senha.go:68.2,68.28 1 1
+teste-senha/teste-senha/senha/senha.go:59.34,60.34 1 1
+teste-senha/teste-senha/senha/senha.go:60.34,62.4 1 1
+teste-senha/teste-senha/senha/senha.go:65.12,67.3 1 1
